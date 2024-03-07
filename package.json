@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "publisher": "TerrySikenaris",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/terrychitter/50-shades-of-green"
   },
   "keywords": [
     "theme",
