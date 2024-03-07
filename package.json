@@ -1,0 +1,29 @@
+{
+  "name": "50-shades-of-green",
+  "displayName": "50 Shades of Green",
+  "description": "An ungodly amount of green.",
+  "version": "1.0.0",
+  "publisher": "TerrySikenaris",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "50 Shades of Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/50 Shades of Green-color-theme.json"
+      }
+    ]
+  }
+}
