@@ -3,6 +3,12 @@
 ## 💚 Description
 50 Shades of Green is a custom color theme for Visual Studio Code inspired by various shades of green. This theme is designed to provide a visually pleasing and comfortable coding environment for developers who love the color green.
 
+## Screenshots
+<img src="https://i.ibb.co/9ydxN80/Screenshot-45.png" width="100%">
+<img src="https://i.ibb.co/JkDk1tp/Screenshot-44.png" width="100%">
+<img src="https://i.ibb.co/S3ztnFJ/Screenshot-42.png" width="100%">
+<img src="https://i.ibb.co/H2cqrxN/Screenshot-43.png" width="100%">
+
 ## 💚 Installation
 1. Launch Visual Studio Code.
 2. Go to the Extensions view by clicking on the square icon in the Sidebar.
