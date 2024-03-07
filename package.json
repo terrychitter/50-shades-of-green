@@ -2,8 +2,9 @@
   "name": "50-shades-of-green",
   "displayName": "50 Shades of Green",
   "description": "An ungodly amount of green.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "TerrySikenaris",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/terrychitter/50-shades-of-green"
