@@ -20,4 +20,4 @@
 Your feedback is invaluable in improving this theme. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub [here](https://github.com/terrychitter/50-shades-of-green).
 
 ## 💚 License
-This theme is available under the [MIT License]. Feel free to use, modify, and distribute this theme as you see fit.
+This theme is available under the [MIT License](https://github.com/terrychitter/50-shades-of-green/blob/76c66fabaed9ea653f5a48fad963d8744fcdbf72/LICENSE.md). Feel free to use, modify, and distribute this theme as you see fit.
