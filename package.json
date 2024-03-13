@@ -14,7 +14,8 @@
     "dark theme",
     "green",
     "50 shades of green",
-    "50 shades"
+    "50 shades",
+    "green theme"
   ],
   "engines": {
     "vscode": "^1.87.0"
